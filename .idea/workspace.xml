@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d0fd8d0-c352-4d62-8eab-cc625152101a" name="Changes" comment="" />
+    <list default="true" id="4d0fd8d0-c352-4d62-8eab-cc625152101a" name="Changes" comment="2022-12-11 第1次push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +25,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "last_opened_file_path": "N:/TestPyQt5/test003",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -60,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670726765105</updated>
     </task>
+    <task id="LOCAL-00001" summary="2022-12-11 第1次push">
+      <created>1670727386129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670727386129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +80,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022-12-11 第1次push" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-12-11 第1次push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
